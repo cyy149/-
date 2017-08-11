@@ -1,0 +1,26 @@
+{
+  "index.html": {
+    "resources": [
+      "img/cloud.png",
+      "js/bg.js",
+      "js/pointer.js",
+      "js/game.js",
+      "js/qq.js",
+      "audio/Rý\u0027Vý.mp3",
+      "js/mui.min.js",
+      "img/sky.fw.png",
+      "img/fire_balloon.png",
+      "audio/Rý\u0027Vý.ogg",
+      "css/mui.min.css",
+      "js/Cloud.js",
+      "img/17.gif",
+      "img/chicken.gif",
+      "js/gun.js",
+      "js/audio.js",
+      "audio/Rý\u0027Vý.mp3",
+      "audio/Rý\u0027Vý.ogg",
+      "audio/wild.ogg"
+    ],
+    "refer": []
+  }
+}
